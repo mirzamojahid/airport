@@ -13,7 +13,6 @@ Linkedin: https://www.linkedin.com/company/tourxofficial
 Web: https://tourx.com.bd
 App: https://play.google.com/store/apps/details?id=bd.com.tourx
 
-https://raw.githubusercontent.com/mirzamojahid/TravelData/main/cover.png
 
 
 #TravelData #AirportsData
